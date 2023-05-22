@@ -40,7 +40,8 @@
                      @auth
                         <li class="nav-item">
 
-                            <a class="nav-link btn btn-dark text-white" href="{{ route('dashboard') }}">Dashboard</a>
+                            <x-app-layout>
+                            </x-app-layout>
 
                        </li>
                         
